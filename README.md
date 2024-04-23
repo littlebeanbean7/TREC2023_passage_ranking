@@ -6,7 +6,7 @@ Note:
 
 - M001 serves as baseline;
 
-- M002 and M004 are no finetuneed models, they serve as comparison; 
+- M002 and M004 are no finetuned models, they serve as comparison; 
 
 - M003 and M005 are the fine-tuned BiEncoder and CrossEncoder models;
 
